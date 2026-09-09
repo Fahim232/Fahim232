@@ -98,7 +98,7 @@ I'm a passionate Computer Science student devoted to building real-world solutio
   <a href="https://github.com/Fahim232/Panda-Lite-Api-System-testing"><img src="https://raw.githubusercontent.com/Fahim232/Fahim232/main/images/panda-lite.svg" width="48%" alt="Panda Lite API Testing" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Fahim232/Cartup-Automation"><img src="https://img.shields.io/badge/Cartup_Automation-Playwright_E2E-2EAD33?style=for-the-badge&logo=playwright&logoColor=white&label=SQA%20Assignment" width="48%" alt="Cartup Automation" /></a>
+  <a href="https://github.com/Fahim232/Cartup-Automation"><img src="https://raw.githubusercontent.com/Fahim232/Fahim232/main/images/cartup-automation.svg" width="48%" alt="Cartup Automation" /></a>
   <a href="https://github.com/Fahim232/Database_project-"><img src="https://raw.githubusercontent.com/Fahim232/Fahim232/main/images/database-project.svg" width="48%" alt="User Authentication System" /></a>
 </p>
 <p align="center">
