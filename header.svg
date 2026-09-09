@@ -10,27 +10,27 @@
     </style>
   </defs>
 
-  <!-- Window: 0.3s - 2.7s (of 12s loop) -->
+  <!-- Window: 0.4s - 2.2s, blank 2.6s - 3.4s -->
   <text class="base" x="330" y="39" text-anchor="middle" opacity="0">
-    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.025;0.225;0.25;1" dur="12s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.033;0.183;0.217;1" dur="12s" begin="0s" repeatCount="indefinite"/>
     Hi &#128075;, I'm Fahim Montasir
   </text>
 
-  <!-- Window: 3.3s - 5.7s -->
+  <!-- Window: 3.8s - 5.6s, blank 6.0s - 6.4s -->
   <text class="base" x="330" y="39" text-anchor="middle" opacity="0">
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.275;0.475;0.5;1" dur="12s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.283;0.317;0.467;0.5;1" dur="12s" begin="0s" repeatCount="indefinite"/>
     CS Student at UIU &#127891;
   </text>
 
-  <!-- Window: 6.3s - 8.7s -->
+  <!-- Window: 6.8s - 8.6s, blank 9.0s - 9.4s -->
   <text class="base" x="330" y="39" text-anchor="middle" opacity="0">
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.525;0.725;0.75;1" dur="12s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.533;0.567;0.717;0.75;1" dur="12s" begin="0s" repeatCount="indefinite"/>
     Software Quality &amp; Testing Aspiring
   </text>
 
-  <!-- Window: 9.3s - 11.7s -->
+  <!-- Window: 9.8s - 11.6s, blank 11.6s - 12s -->
   <text class="base" x="330" y="39" text-anchor="middle" opacity="0">
-    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.775;0.975;1" dur="12s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.783;0.817;0.967;1" dur="12s" begin="0s" repeatCount="indefinite"/>
     Problem Solver &amp; Builder &#128640;
   </text>
 </svg>
