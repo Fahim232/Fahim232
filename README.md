@@ -24,7 +24,7 @@ I'm a passionate Computer Science student devoted to building real-world solutio
 - 🌱 Currently preparing for a **Software Testing & QA** career path
 - 🏆 **2nd Runner-up** among **100+ teams** in the Electronics Lab Competition at UIU
 - 💡 Building my **Final Year Design Project** (capstone)
-- 🧰 7+ academic & personal projects across multiple domains
+- 🧰 Active in: **Job Portal (NovaHire)** · **API System Testing (Panda Lite)** · **DBMS · OOP**
 - 🎯 Focused on: **Test Automation · Manual Testing · DBMS · OOP**
 
 ---
@@ -68,14 +68,23 @@ I'm a passionate Computer Science student devoted to building real-world solutio
 
 ## 🚀 Featured Projects
 
+<p align="center">
+  <a href="https://github.com/Fahim232/NovaHire"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fahim232&repo=NovaHire&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/Fahim232/Panda-Lite-Api-System-testing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fahim232&repo=Panda-Lite-Api-System-testing&theme=tokyonight&hide_border=true" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Fahim232/Database_project-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fahim232&repo=Database_project-&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/Fahim232/fahim232.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fahim232&repo=fahim232.github.io&theme=tokyonight&hide_border=true" /></a>
+</p>
+
 | Project | Description | Tech |
 | :------ | :---------- | :---- |
-| **Job Portal & Grooming Platform** | Full-featured job portal connecting seekers with employers — profile management, job matching, skill development | Full-Stack, Software Engineering |
-| **DBMS Project** | Complete relational database system: schema design, normalization, SQL, stored procedures, transactions | SQL, ER Modeling |
-| **AOOP Project** | Scalable Java app applying advanced OOP principles, inheritance, polymorphism & design patterns | Java, Design Patterns |
-| **SPL Project (C)** | Low-level systems programming: memory management, pointers, file I/O | C, Memory Mgmt |
-| **Electronics Lab Project** 🏆 | Circuit design, embedded logic & hardware-software integration — **2nd Runner-up among 100+ teams** | Embedded, Hardware |
-| **Final Year Design Project** 🚧 | Current capstone synthesizing my full CS degree into a real-world application | In Progress |
+| [**NovaHire — Job Portal & Grooming**](https://github.com/Fahim232/NovaHire) | AI-powered recruitment ecosystem connecting job seekers, companies & mentors | PHP, MySQL, Full-Stack |
+| [**Panda Lite — API System Testing**](https://github.com/Fahim232/Panda-Lite-Api-System-testing) | QA/Testing showcase — Postman test suites, defect reports & system-testing docs | Postman, SQA |
+| [**User Authentication System**](https://github.com/Fahim232/Database_project-) | DB project with role-based access control built on PHP & MySQL | PHP, MySQL, DBMS |
+| [**Portfolio Website**](https://github.com/Fahim232/fahim232.github.io) | Personal portfolio & blog site | HTML, CSS, JS |
+| **Electronics Lab Project** 🏆 | Circuit design & embedded logic — **2nd Runner-up among 100+ teams** | Embedded, Hardware |
+| **Final Year Design Project** 🚧 | Current capstone building a real-world application | In Progress |
 
 ---
 
