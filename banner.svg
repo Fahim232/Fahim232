@@ -1,64 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="55%" stop-color="#1e1b4b"/>
-      <stop offset="100%" stop-color="#312e81"/>
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#0B1220"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#3B82F6"/>
-      <stop offset="100%" stop-color="#8B5CF6"/>
+      <stop offset="55%" stop-color="#8B5CF6"/>
       <stop offset="100%" stop-color="#EC4899"/>
     </linearGradient>
-    <radialGradient id="glow" cx="72%" cy="40%" r="45%">
-      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="nameFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="100%" stop-color="#E2E8F0"/>
+    </linearGradient>
   </defs>
 
-  <rect width="1000" height="220" fill="url(#bg)"/>
-  <rect width="1000" height="220" fill="url(#glow)"/>
+  <!-- background -->
+  <rect width="1000" height="200" fill="url(#bg)"/>
 
-  <!-- subtle grid dots -->
-  <g fill="#94a3b8" opacity="0.18">
-    <circle cx="40" cy="40" r="1.5"/><circle cx="80" cy="40" r="1.5"/><circle cx="120" cy="40" r="1.5"/>
-    <circle cx="40" cy="80" r="1.5"/><circle cx="80" cy="80" r="1.5"/><circle cx="120" cy="80" r="1.5"/>
-    <circle cx="40" cy="120" r="1.5"/><circle cx="80" cy="120" r="1.5"/><circle cx="120" cy="120" r="1.5"/>
-    <circle cx="920" cy="40" r="1.5"/><circle cx="960" cy="40" r="1.5"/><circle cx="920" cy="80" r="1.5"/>
-    <circle cx="960" cy="80" r="1.5"/><circle cx="920" cy="120" r="1.5"/><circle cx="960" cy="120" r="1.5"/>
-    <circle cx="880" cy="160" r="1.5"/><circle cx="920" cy="160" r="1.5"/><circle cx="960" cy="160" r="1.5"/>
-  </g>
+  <!-- fine vertical accent line (left) -->
+  <rect x="56" y="46" width="3" height="108" rx="1.5" fill="url(#line)"/>
 
   <!-- name -->
-  <text x="50" y="98" font-family="'Fira Code','Menlo',Consolas,monospace" font-size="44" font-weight="700" fill="#F8FAFC">
+  <text x="80" y="92" font-family="'Inter','SF Pro Display','Helvetica Neue',Arial,sans-serif" font-size="42" font-weight="700" letter-spacing="-0.5" fill="url(#nameFade)">
     Fahim Montasir
   </text>
 
-  <!-- gradient underline -->
-  <rect x="50" y="112" width="220" height="5" rx="2.5" fill="url(#accent)"/>
-
-  <!-- tagline -->
-  <text x="50" y="148" font-family="'Fira Code','Menlo',Consolas,monospace" font-size="19" fill="#CBD5E1">
-    Computer Science Student · Software Quality &amp; Testing
-  </text>
-  <text x="50" y="174" font-family="'Fira Code','Menlo',Consolas,monospace" font-size="19" fill="#94A3B8">
-    Builder of practical, testable &amp; well-engineered solutions
+  <!-- role line -->
+  <text x="80" y="128" font-family="'Inter','SF Pro Display','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="500" fill="#94A3B8">
+    Computer Science Student
+    <tspan dy="0" fill="#3B82F6">&#160;·&#160;</tspan><tspan dy="0">Software Quality &amp; Testing</tspan>
   </text>
 
-  <!-- terminal card -->
-  <rect x="640" y="40" width="310" height="140" rx="12" fill="#0B1220" opacity="0.85"/>
-  <rect x="640" y="40" width="310" height="40" rx="12" fill="#1E293B"/>
-  <circle cx="660" cy="60" r="6" fill="#F87171"/>
-  <circle cx="682" cy="60" r="6" fill="#FBBF24"/>
-  <circle cx="704" cy="60" r="6" fill="#34D399"/>
-  <text x="740" y="66" font-family="'Fira Code','Menlo',Consolas,monospace" font-size="13" fill="#94A3B8">bash — Fahim232</text>
+  <!-- subtle tagline -->
+  <text x="80" y="154" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#64748B">
+    United International University · Building reliable, well-tested software
+  </text>
 
-  <text x="662" y="108" font-family="'Fira Code','Menlo',Consolas,monospace" font-size="14" fill="#34D399">$ whoami</text>
-  <text x="662" y="128" font-family="'Fira Code','Menlo',Consolas,monospace" font-size="14" fill="#E2E8F0">fahim_montasir@uiu</text>
-  <text x="662" y="152" font-family="'Fira Code','Menlo',Consolas,monospace" font-size="14" fill="#34D399">$ ./dev --qa --build</text>
-  <text x="662" y="172" font-family="'Fira Code','Menlo',Consolas,monospace" font-size="14" fill="#8B5CF6">> testing quality software since 2023</text>
+  <!-- elegant thin rings (right) -->
+  <g fill="none" stroke="#334155" stroke-width="1.2" opacity="0.9">
+    <circle cx="918" cy="72" r="30" stroke-dasharray="3 5"/>
+    <circle cx="918" cy="72" r="48" stroke="#1E293B"/>
+    <circle cx="918" cy="72" r="16" fill="#3B82F6" fill-opacity="0.15" stroke="none"/>
+  </g>
+  <g fill="none" stroke="#334155" stroke-width="1" opacity="0.7">
+    <circle cx="852" cy="132" r="22" stroke-dasharray="2 5"/>
+  </g>
 
-  <!-- bottom accent line -->
-  <rect x="0" y="214" width="1000" height="6" fill="url(#accent)" opacity="0.9"/>
+  <!-- footer hairline gradient -->
+  <rect x="0" y="196" width="1000" height="4" fill="url(#line)" opacity="0.85"/>
 </svg>
