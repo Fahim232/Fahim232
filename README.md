@@ -77,22 +77,30 @@ I'm a passionate Computer Science student devoted to building real-world solutio
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.shion.dev/api?username=Fahim232&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fahim232&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+> Live analytics from my GitHub activity — every card updates automatically.
+
+### ⚡ Performance Overview
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Fahim232&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="170em" src="https://github-readme-stats.shion.dev/api?username=Fahim232&show_icons=true&bg_color=0f172a&title_color=8b5cf6&text_color=cbd5e1&icon_color=3b82f6&hide_border=true&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fahim232&layout=compact&bg_color=0f172a&title_color=8b5cf6&text_color=cbd5e1&icon_color=3b82f6&hide_border=true" alt="Top Languages" />
 </p>
+
+### 🔥 Current Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Fahim232&background=0f172a&ring=8b5cf6&fire=3b82f6&currStreakNum=cbd5e1&sideNums=94a3b8&currStreakLabel=cbd5e1&sideLabels=94a3b8&dates=64748b&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 🗓️ Contribution History
 
 <p align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=Fahim232" alt="Contribution activity heatmap" />
 </p>
 
-<sub align="center">
-  📊 Live data — updates automatically with every contribution.
-</sub>
+<p align="center">
+  <sub>📊 All cards are generated live from the GitHub API — no manual updates needed.</sub>
+</p>
 
 ---
 
