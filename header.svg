@@ -1,36 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="64" viewBox="0 0 640 64">
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="60" viewBox="0 0 660 60">
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#3B82F6"/>
       <stop offset="100%" stop-color="#8B5CF6"/>
     </linearGradient>
     <style>
-      .base { font-family: 'Fira Code', 'Menlo', 'Consolas', monospace; font-size: 28px; font-weight: 600; fill: url(#grad); }
+      .base { font-family: 'Fira Code', 'Menlo', 'Consolas', monospace; font-size: 26px; font-weight: 600; fill: url(#grad); }
     </style>
   </defs>
 
-  <!-- Phrase 1: Hi 👋, I'm Fahim Montasir (shows 0-2s, holds 4s, hides) -->
-  <text class="base" x="320" y="38" text-anchor="middle" opacity="0">
-    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.1;0.55;0.7;1" dur="13s" repeatCount="indefinite" begin="0s"/>
+  <text class="base" x="330" y="39" text-anchor="middle" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1" dur="3s" begin="0s" repeatCount="indefinite"/>
     Hi &#128075;, I'm Fahim Montasir
   </text>
 
-  <!-- Phrase 2: CS Student at UIU -->
-  <text class="base" x="320" y="38" text-anchor="middle" opacity="0">
-    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.12;0.58;0.72;1" dur="13s" repeatCount="indefinite" begin="2.6s"/>
+  <text class="base" x="330" y="39" text-anchor="middle" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1" dur="3s" begin="3s" repeatCount="indefinite"/>
     CS Student at UIU &#127891;
   </text>
 
-  <!-- Phrase 3: Software Quality & Testing Aspiring -->
-  <text class="base" x="320" y="38" text-anchor="middle" opacity="0">
-    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.16;0.6;0.75;1" dur="13s" repeatCount="indefinite" begin="5.2s"/>
+  <text class="base" x="330" y="39" text-anchor="middle" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1" dur="3s" begin="6s" repeatCount="indefinite"/>
     Software Quality &amp; Testing Aspiring
   </text>
 
-  <!-- Phrase 4: Problem Solver & Builder -->
-  <text class="base" x="320" y="38" text-anchor="middle" opacity="0">
-    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.15;0.6;0.78;1" dur="13s" repeatCount="indefinite" begin="7.8s"/>
+  <text class="base" x="330" y="39" text-anchor="middle" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.8;1" dur="3s" begin="9s" repeatCount="indefinite"/>
     Problem Solver &amp; Builder &#128640;
   </text>
 </svg>
