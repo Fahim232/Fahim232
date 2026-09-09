@@ -98,7 +98,10 @@ I'm a passionate Computer Science student devoted to building real-world solutio
   <a href="https://github.com/Fahim232/Panda-Lite-Api-System-testing"><img src="https://raw.githubusercontent.com/Fahim232/Fahim232/main/images/panda-lite.svg" width="48%" alt="Panda Lite API Testing" /></a>
 </p>
 <p align="center">
+  <a href="https://github.com/Fahim232/Cartup-Automation"><img src="https://img.shields.io/badge/Cartup_Automation-Playwright_E2E-2EAD33?style=for-the-badge&logo=playwright&logoColor=white&label=SQA%20Assignment" width="48%" alt="Cartup Automation" /></a>
   <a href="https://github.com/Fahim232/Database_project-"><img src="https://raw.githubusercontent.com/Fahim232/Fahim232/main/images/database-project.svg" width="48%" alt="User Authentication System" /></a>
+</p>
+<p align="center">
   <a href="https://github.com/Fahim232/fahim232.github.io"><img src="https://raw.githubusercontent.com/Fahim232/Fahim232/main/images/portfolio.svg" width="48%" alt="Portfolio Website" /></a>
 </p>
 
@@ -109,6 +112,7 @@ I'm a passionate Computer Science student devoted to building real-world solutio
 | :------ | :---------- | :---- | :--- |
 | [**NovaHire — Job Portal & Grooming**](https://github.com/Fahim232/NovaHire) | AI-powered recruitment ecosystem connecting job seekers, companies & mentors | PHP, MySQL, Full-Stack | — |
 | [**Panda Lite — API System Testing**](https://github.com/Fahim232/Panda-Lite-Api-System-testing) | QA/Testing showcase — Postman test suites, defect reports & system-testing docs | Postman, SQA | — |
+| [**Cartup Automation — E2E Purchase Flow**](https://github.com/Fahim232/Cartup-Automation) | SQA Assignment — full e-commerce journey automation (login → cart → checkout → COD → logout) | Playwright, Node.js | — |
 | [**User Authentication System**](https://github.com/Fahim232/Database_project-) | DB project with role-based access control built on PHP & MySQL | PHP, MySQL, DBMS | — |
 | [**Portfolio Website**](https://github.com/Fahim232/fahim232.github.io) | Personal portfolio & blog site | HTML, CSS, JS | [🌐 Live](https://fahim232.github.io) |
 | **Electronics Lab Project** 🏆 | Circuit design & embedded logic — **2nd Runner-up among 100+ teams** | Embedded, Hardware | — |
