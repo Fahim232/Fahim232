@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/Fahim232"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:montasirseyam@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.uiu.ac.bd"><img src="https://img.shields.io/badge/United_International_University-0A66C2?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/fahim-montasir-83a2b224b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Fahim232&style=for-the-badge&color=3B82F6&label=Profile%20Views" alt="Profile views" />
 </p>
 
@@ -94,7 +94,7 @@ I'm a passionate Computer Science student devoted to building real-world solutio
   <a href="https://github.com/Fahim232"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:montasirseyam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="tel:+8801642150406"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.uiu.ac.bd"><img src="https://img.shields.io/badge/UIU-Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/fahim-montasir-83a2b224b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
