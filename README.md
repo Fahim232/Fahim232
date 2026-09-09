@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fahim232/Fahim232/main/header.svg" alt="Fahim Montasir - Typing banner" width="640" />
+  <img src="https://raw.githubusercontent.com/Fahim232/Fahim232/main/header.svg?v=4" alt="Fahim Montasir - Typing banner" width="640" />
 </p>
 
 <h3 align="center">
