@@ -49,6 +49,8 @@ I'm a passionate Computer Science student devoted to building real-world solutio
 - 🔌 **Postman API testing** — collection-building, environments & defect reporting
 - 📱 **Flutter & Dart** — mobile development exploration
 
+> 📝 Documenting everything in my public **[SQA Learning Journal](https://github.com/Fahim232/sqa-learning-journal)** — ISTQB notes, manual testing guides & API testing tips. Learning in public.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -142,14 +144,14 @@ I'm a passionate Computer Science student devoted to building real-world solutio
 <details>
 <summary><b>📋 Full project details</b></summary>
 
-| Project | Description | Tech |
-| :------ | :---------- | :---- |
-| [**NovaHire — Job Portal & Grooming**](https://github.com/Fahim232/NovaHire) | AI-powered recruitment ecosystem connecting job seekers, companies & mentors | PHP, MySQL, Full-Stack |
-| [**Panda Lite — API System Testing**](https://github.com/Fahim232/Panda-Lite-Api-System-testing) | QA/Testing showcase — Postman test suites, defect reports & system-testing docs | Postman, SQA |
-| [**User Authentication System**](https://github.com/Fahim232/Database_project-) | DB project with role-based access control built on PHP & MySQL | PHP, MySQL, DBMS |
-| [**Portfolio Website**](https://github.com/Fahim232/fahim232.github.io) | Personal portfolio & blog site | HTML, CSS, JS |
-| **Electronics Lab Project** 🏆 | Circuit design & embedded logic — **2nd Runner-up among 100+ teams** | Embedded, Hardware |
-| **Final Year Design Project** 🚧 | Current capstone building a real-world application | In Progress |
+| Project | Description | Tech | Live |
+| :------ | :---------- | :---- | :--- |
+| [**NovaHire — Job Portal & Grooming**](https://github.com/Fahim232/NovaHire) | AI-powered recruitment ecosystem connecting job seekers, companies & mentors | PHP, MySQL, Full-Stack | — |
+| [**Panda Lite — API System Testing**](https://github.com/Fahim232/Panda-Lite-Api-System-testing) | QA/Testing showcase — Postman test suites, defect reports & system-testing docs | Postman, SQA | — |
+| [**User Authentication System**](https://github.com/Fahim232/Database_project-) | DB project with role-based access control built on PHP & MySQL | PHP, MySQL, DBMS | — |
+| [**Portfolio Website**](https://github.com/Fahim232/fahim232.github.io) | Personal portfolio & blog site | HTML, CSS, JS | [🌐 Live](https://fahim232.github.io) |
+| **Electronics Lab Project** 🏆 | Circuit design & embedded logic — **2nd Runner-up among 100+ teams** | Embedded, Hardware | — |
+| **Final Year Design Project** 🚧 | Current capstone building a real-world application | In Progress | — |
 
 </details>
 
@@ -168,9 +170,11 @@ I'm a passionate Computer Science student devoted to building real-world solutio
 
 <p align="center">
   <a href="https://github.com/Fahim232"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/fahim-montasir-83a2b224b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:montasirseyam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="tel:+8801642150406"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/fahim-montasir-83a2b224b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sponsors/Fahim232"><img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" /></a>
+  <a href="https://fahim232.github.io"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 <p align="center">
