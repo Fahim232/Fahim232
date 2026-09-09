@@ -78,8 +78,8 @@ I'm a passionate Computer Science student devoted to building real-world solutio
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Fahim232&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim232&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.shion.dev/api?username=Fahim232&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Fahim232&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -89,6 +89,10 @@ I'm a passionate Computer Science student devoted to building real-world solutio
 <p align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=Fahim232" alt="Contribution activity heatmap" />
 </p>
+
+<sub align="center">
+  📊 Live data — updates automatically with every contribution.
+</sub>
 
 ---
 
