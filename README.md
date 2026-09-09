@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Fahim232/Fahim232/main/banner.svg" alt="Fahim Montasir - Profile banner" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Fahim232/Fahim232/main/header.svg?v=4" alt="Fahim Montasir - Typing banner" width="640" />
 </p>
 
@@ -26,6 +30,24 @@ I'm a passionate Computer Science student devoted to building real-world solutio
 - 💡 Building my **Final Year Design Project** (capstone)
 - 🧰 Active in: **Job Portal (NovaHire)** · **API System Testing (Panda Lite)** · **DBMS · OOP**
 - 🎯 Focused on: **Test Automation · Manual Testing · DBMS · OOP**
+
+---
+
+## 📚 Now Learning
+
+> Always learning, never shipped a half-tested feature. 🛡️
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ISTQB_CTFL-Foundation_Level-25A162?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Test_Automation-Playwright_%2B_Selenium-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Testing-Postman_%2B_REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full-Stack-Dart_%2B_Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+- 🧪 **ISTQB CTFL** — preparing to earn the Foundation Level certification
+- 🐛 **Playwright & Selenium** — browser automation & end-to-end test suites
+- 🔌 **Postman API testing** — collection-building, environments & defect reporting
+- 📱 **Flutter & Dart** — mobile development exploration
 
 ---
 
@@ -64,18 +86,49 @@ I'm a passionate Computer Science student devoted to building real-world solutio
   <img src="https://streak-stats.demolab.com/?user=Fahim232&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Fahim232" alt="Contribution activity heatmap" />
+</p>
+
 ---
+
+## 🎓 Certifications & Training
+
+| Cert | Area | Status |
+| :--- | :--- | :----- |
+| **ISTQB CTFL** | Foundation Level (Software Testing) | Preparing |
+| **SQA Program (OSTAD)** | Software Quality Assurance — test case writing, epics & user stories, defect tracking | Completed |
+| **Systems & DBMS** | Academic — SQL, normalization, transactions, ER modeling | UIU |
+
+<p align="center">
+  <sub>🎯 Actually earning — learning to <em>verify quality, not just assume it</em></sub>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Fahim232/Fahim232/output/dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="90%" />
+</p>
+
+<sub align="center">
+  Your contributions feed a hungry snake — daily, automatically. 🐍
+</sub>
 
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Fahim232/NovaHire"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fahim232&repo=NovaHire&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Fahim232/Panda-Lite-Api-System-testing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fahim232&repo=Panda-Lite-Api-System-testing&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/Fahim232/NovaHire"><img src="https://raw.githubusercontent.com/Fahim232/Fahim232/main/images/nova-hire.svg" width="48%" alt="NovaHire" /></a>
+  <a href="https://github.com/Fahim232/Panda-Lite-Api-System-testing"><img src="https://raw.githubusercontent.com/Fahim232/Fahim232/main/images/panda-lite.svg" width="48%" alt="Panda Lite API Testing" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Fahim232/Database_project-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fahim232&repo=Database_project-&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Fahim232/fahim232.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fahim232&repo=fahim232.github.io&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/Fahim232/Database_project-"><img src="https://raw.githubusercontent.com/Fahim232/Fahim232/main/images/database-project.svg" width="48%" alt="User Authentication System" /></a>
+  <a href="https://github.com/Fahim232/fahim232.github.io"><img src="https://raw.githubusercontent.com/Fahim232/Fahim232/main/images/portfolio.svg" width="48%" alt="Portfolio Website" /></a>
 </p>
+
+<details>
+<summary><b>📋 Full project details</b></summary>
 
 | Project | Description | Tech |
 | :------ | :---------- | :---- |
@@ -85,6 +138,8 @@ I'm a passionate Computer Science student devoted to building real-world solutio
 | [**Portfolio Website**](https://github.com/Fahim232/fahim232.github.io) | Personal portfolio & blog site | HTML, CSS, JS |
 | **Electronics Lab Project** 🏆 | Circuit design & embedded logic — **2nd Runner-up among 100+ teams** | Embedded, Hardware |
 | **Final Year Design Project** 🚧 | Current capstone building a real-world application | In Progress |
+
+</details>
 
 ---
 
