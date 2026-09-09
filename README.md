@@ -91,16 +91,6 @@ I'm a passionate Computer Science student devoted to building real-world solutio
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Fahim232/Fahim232/output/dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="90%" />
-</p>
-
-<sub align="center">
-  Your contributions feed a hungry snake — daily, automatically. 🐍
-</sub>
-
 ## 🚀 Featured Projects
 
 <p align="center">
