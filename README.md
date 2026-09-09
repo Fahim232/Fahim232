@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=600&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Fahim+Montasir;CS+Student+at+UIU+%F0%9F%8E%93;Software+Quality+%26+Testing+Aspiring;Problem+Solver+%26+Builder+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Fahim232/Fahim232/main/header.svg" alt="Fahim Montasir - Typing banner" width="640" />
 </p>
 
 <h3 align="center">
